@@ -48,7 +48,7 @@
       "drc_warnings",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0fffffff_ffffffff",
+    "visible_layers": "00000000_00000000_0fffffff_ffffff7f",
     "zone_display_mode": 0
   },
   "git": {
@@ -91,7 +91,7 @@
       162,
       147,
       91,
-      71,
+      76,
       91,
       91,
       91,
