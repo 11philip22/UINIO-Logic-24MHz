@@ -2,7 +2,9 @@
 
 [**UINIO-Logic-24MHz**](https://gitee.com/uinika/UINIO-Logic-24MHz) is a logic analyzer circuit design based on Infineon's (formerly Cypress) [**CY7C68013A**](https://www.infineon.com/cms/en/product/universal-serial-bus-usb-power-delivery-controller/peripheral-controllers/ez-usb-fx2lp/cy7c68013a-56ltxit/) `USB 2.0` controller and the [**sigrok**](https://sigrok.org/) open-source firmware. It provides a `24 MHz` sampling rate and **8** input channels.
 
-![](./Images/PCB-3D-1.png)
+| Front | Back |
+| :---: | :---: |
+| ![Front of the UINIO-Logic-24MHz PCB](./Images/UINIO-Logic-24MHz-front.png) | ![Back of the UINIO-Logic-24MHz PCB](./Images/UINIO-Logic-24MHz-back.png) |
 
 ## Design Overview
 

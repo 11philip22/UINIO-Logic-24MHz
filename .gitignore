@@ -10,3 +10,7 @@
 *.kicad_pcb.lck
 .DS_store
 .history/
+fabrication-toolkit-options.json
+production/
+*.kicad_prl
+*.lck
